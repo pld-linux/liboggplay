@@ -6,7 +6,7 @@ Summary:	A library to decode from multiple ogg streams synchronously
 Summary(pl.UTF-8):	Biblioteka do synchronicznego dekodowania wielu strumieni ogg
 Name:		liboggplay
 Version:	0.3.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries
 Source0:	https://downloads.xiph.org/releases/liboggplay/%{name}-%{version}.tar.gz
